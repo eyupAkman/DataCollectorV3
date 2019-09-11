@@ -1,0 +1,9 @@
+C:\Users\eyupa\source\repos\DataCollectorV3\DataCollectorV3.Entities\bin\Debug\DataCollectorV3.Entities.dll
+C:\Users\eyupa\source\repos\DataCollectorV3\DataCollectorV3.Entities\bin\Debug\DataCollectorV3.Entities.pdb
+C:\Users\eyupa\source\repos\DataCollectorV3\DataCollectorV3.Entities\obj\Debug\DataCollectorV3.Entities.csproj.CoreCompileInputs.cache
+C:\Users\eyupa\source\repos\DataCollectorV3\DataCollectorV3.Entities\obj\Debug\DataCollectorV3.Entities.dll
+C:\Users\eyupa\source\repos\DataCollectorV3\DataCollectorV3.Entities\obj\Debug\DataCollectorV3.Entities.pdb
+C:\Users\eyupa\source\repos\DataCollectorV3\DataCollectorV3.Entities\bin\Debug\DataCollectorV3.Interfaces.dll
+C:\Users\eyupa\source\repos\DataCollectorV3\DataCollectorV3.Entities\bin\Debug\DataCollectorV3.Interfaces.pdb
+C:\Users\eyupa\source\repos\DataCollectorV3\DataCollectorV3.Entities\obj\Debug\DataCollectorV3.Entities.csprojAssemblyReference.cache
+C:\Users\eyupa\source\repos\DataCollectorV3\DataCollectorV3.Entities\obj\Debug\DataCollectorV3.Entities.csproj.CopyComplete
